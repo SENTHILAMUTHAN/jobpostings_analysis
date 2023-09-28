@@ -26,7 +26,7 @@
  2. Companies having 1 employee were replaced with Random numbers  between the range of (11 - 50 ) and (100 to 150)
  3. In the industry coulumn values of "Not Available " has been replaced with  "Information Technology & Services"
  4. In the level coulumn values of "Not Available " has been replaced with "Entry level"
- 5. Creating a Dataset in BQ by the name "jobanalysis" and upkoadind the cleaned file to the table named "cleaned"
+ 5. Creating a Dataset in BQ by the name "jobanalysis" and uploaded the cleaned file to the table named "cleaned"
 
 ## Exploratory Data Analysis(EDA)
  1. EDA involves analysis of the dataset to find 
