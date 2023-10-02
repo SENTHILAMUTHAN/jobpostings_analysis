@@ -10,7 +10,7 @@
 -  [Dashboard(images)](#dashboardimages)
 
 ## Case study overview
-  This Case study seeks to offer in-depth insights into the current data analyst job market by analyzing recent trends and statistics. Through an examination of job listings, various work arrangements, the months with the highest hiring activity, and the leading employers, this analysis will provide valuable information that can benefit job seekers.
+  This Case study seeks to offer in-depth insights into the  job market by analyzing recent trends and statistics. Through an examination of job listings, various work arrangements, the months with the highest hiring activity, and the leading employers, this analysis will provide valuable information that can benefit job seekers.
  - The primary Data source used for this analysis was downloaded from the kaggle and been uploaded in this repository by the name "actualkaggledata.csv" which contains Dataset of jobpostings on Linkedin
  
 ## Tools
