@@ -10,9 +10,7 @@
 -  [Dashboard(images)](#dashboardimages)
 
 ## Case study overview
- In this case study, we will follow the steps of the data analysis process: prepare, analyze, share to get a idea of the job postings on linkedin.
-
-## Data sources
+ This project seeks to offer in-depth insights into the current data analyst job market by analyzing recent trends and statistics. Through an examination of job listings, various work arrangements, the months with the highest hiring activity, and the leading employers, this analysis will provide valuable information that can benefit both job seekers and employers operating in the field of data analytics.
  The primary Data source used for this analysis was downloaded from the kaggle and been uploaded in this repository by the name "actualkaggledata.csv" which contains Dataset of jobpostings on Linkedin
  
 ## Tools
@@ -80,11 +78,17 @@
 
 
 ## Result/Findings 
-1. The most sought-after job designation among companies is "Data analyst."
-2. Approximately 90% of job postings are for full-time positions.
-3. Both on-site and remote work options have a roughly equal number of job postings.
-4. The month of May saw the highest activity with peak job postings and applicant numbers.
-5. "Epam Anywhere Business" posted the highest number of job postings.
+1. **Most Sought-After Job Designation:** "Data analyst" is the most sought-after job designation among companies. This suggests a strong demand for professionals with skills in data analysis, which is in line with the growing importance of data-driven decision-making across various industries.
+
+2. **Full-Time Positions:** Approximately 90% of job postings are for full-time positions. This indicates that companies are looking for dedicated and committed data analysts to join their teams, rather than relying heavily on part-time or contract workers for these roles.
+
+3. **On-Site vs. Remote Work:** Both on-site and remote work options have a roughly equal number of job postings. This shows that the job market for data analysts is flexible in terms of work arrangements, allowing candidates to choose between working in a physical office or remotely, depending on their preferences and circumstances.
+
+4. **Peak Activity in May:** The month of May saw the highest activity in terms of job postings and applicant numbers. This could be attributed to various factors, such as the end of the academic year for graduates, companies planning for the next fiscal year, or specific industry trends that drive hiring during that time.
+
+5. **Top Job Poster:** "Epam Anywhere Business" posted the highest number of job postings. This suggests that this company has a significant need for data analysts or is actively expanding its data analytics team.
+
+Overall, this information provides insights into the job market for data analysts and can be useful for job seekers looking to enter or advance in this field
 
 
 ## Dashboard(images)
