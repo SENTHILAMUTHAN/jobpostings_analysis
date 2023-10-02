@@ -80,11 +80,11 @@
 
 
 ## Result/Findings 
- 1. **Data analyst** is the most sort after designation by the company.
- 2. **90%** of the job postings are for full time gig 
- 3. **Both On-Site and Remote** worktype have more or less equal number of job postings
- 4. **Both job-postings and number of applicants** peaked in the month of MAY
- 5. **Epam Anywhere Business**  posted most number of jobpostings.
+1. The most sought-after job designation among companies is "Data analyst."
+2. Approximately 90% of job postings are for full-time positions.
+3. Both on-site and remote work options have a roughly equal number of job postings.
+4. The month of May saw the highest activity with peak job postings and applicant numbers.
+5. "Epam Anywhere Business" posted the highest number of job postings.
 
 
 ## Dashboard(images)
