@@ -51,7 +51,7 @@
      
 
 
-    ```
+   ```
      SELECT DISTINCT name,designation,City,State,industry,work_type,level,involvement,totaljob_postings,
      jobpostings_last30days,
      (jobpostings_last60days-jobpostings_last30days)AS jobpostings_30to60days,
@@ -66,7 +66,7 @@
      --where  designation="Data Analyst"
      GROUP BY name,designation,City,State,industry,work_type,level,involvement)
      order by totaljob_postings DESC
-     ```
+   ```
 
       
       
