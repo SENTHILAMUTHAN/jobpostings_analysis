@@ -68,15 +68,19 @@
      order by totaljob_postings DESC
      ```
 
-      ![Map](https://github.com/SENTHILAMUTHAN/jobpostings_analysis/assets/138884128/61be62b7-0b64-45db-9f4c-84555296399e)
+      
+      
+      
+      
+  ![Map](https://github.com/SENTHILAMUTHAN/jobpostings_analysis/assets/138884128/61be62b7-0b64-45db-9f4c-84555296399e)
 
-      ![Monthwise](https://github.com/SENTHILAMUTHAN/jobpostings_analysis/assets/138884128/6784d8bf-72ce-4c2d-a2f6-ac6898fb9b1c)
+  ![Monthwise](https://github.com/SENTHILAMUTHAN/jobpostings_analysis/assets/138884128/6784d8bf-72ce-4c2d-a2f6-ac6898fb9b1c)
    
-      ![30days](https://github.com/SENTHILAMUTHAN/jobpostings_analysis/assets/138884128/48bc7497-682b-47e1-9691-7009bdc8dc23)
+  ![30days](https://github.com/SENTHILAMUTHAN/jobpostings_analysis/assets/138884128/48bc7497-682b-47e1-9691-7009bdc8dc23)
 
-      ![30-60days](https://github.com/SENTHILAMUTHAN/jobpostings_analysis/assets/138884128/09505ca5-79d0-4555-987c-e821c733c6a9)
+  ![30-60days](https://github.com/SENTHILAMUTHAN/jobpostings_analysis/assets/138884128/09505ca5-79d0-4555-987c-e821c733c6a9)
 
-      ![60-90days](https://github.com/SENTHILAMUTHAN/jobpostings_analysis/assets/138884128/7b4b9dfa-4bc0-4cac-a484-c3e0082b1545)
+  ![60-90days](https://github.com/SENTHILAMUTHAN/jobpostings_analysis/assets/138884128/7b4b9dfa-4bc0-4cac-a484-c3e0082b1545)
 
 
 
